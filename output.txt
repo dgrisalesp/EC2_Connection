@@ -1,0 +1,6 @@
+    name  age  salary
+0   John   25   50000
+1   Jane   30   60000
+2  James   27   70000
+<class 'pandas.core.frame.DataFrame'>
+(3, 3)
