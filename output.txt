@@ -4,3 +4,4 @@
 2  James   27   70000
 <class 'pandas.core.frame.DataFrame'>
 (3, 3)
+new
